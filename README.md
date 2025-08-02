@@ -1,10 +1,10 @@
 # Hi there, I'm Ayushman Khandelwal! 👋
 
 ## About Me
-🔭 I'm a passionate developer exploring the world of software engineering and machine learning
-🌱 Currently learning and exploring AI at Northeastern University, Boston
-💡 Always excited to collaborate on interesting projects
-📫 Feel free to reach out and connect!
+🔭 I'm a passionate developer exploring the world of software engineering and machine learning</br>
+🌱 Currently learning and exploring AI at Northeastern University, Boston</br>
+💡 Always excited to collaborate on interesting projects</br>
+📫 Feel free to reach out and connect!</br>
 
 
 ## 🌐 Socials:
